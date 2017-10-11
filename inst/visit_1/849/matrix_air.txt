@@ -1,0 +1,19 @@
+
+standard file: atlas00_T1_ss_to_atlas16_T1_ss.tmp/atlas16_T1_ss_hi.img
+identifier: 0398327918
+file dimensions: 224 by 224 by 224 pixels (x,y,z)
+voxel dimensions: 1.000000e+00 by 1.000000e+00 by 1.000000e+00 (x,y,z)
+
+reslice file: atlas00_T1_ss_to_atlas16_T1_ss.tmp/atlas00_T1_ss_hi.img
+identifier: 0140517284
+file dimensions: 224 by 224 by 224 pixels (x,y,z)
+voxel dimensions: 1.000000e+00 by 1.000000e+00 by 1.000000e+00 (x,y,z)
+
+E*cubic standard coordinates=reslice coordinates
+E=
+[0.890391	-0.000801968	0.0116891	4.10124	
+0.0159408	0.93041	-0.363917	36.4793	
+-0.026995	0.288971	0.844261	39.5638	
+0	0	0	1]
+
+Comment: combine_AIR_FLIRT_tform 
