@@ -1,5 +1,5 @@
 Package: kirby21.mricloud
-Title: A dataset containing correlation data for 20 subjects from Kennedy Krieger.
+Title: A dataset containing correlation data for 20 subjects from Kennedy Krieger
 Version: 0.0.0.9000
 Authors@R: person("Adi", "Gherman", email = "adig@jhu.edu", role = c("aut", "cre"))
 Description: A dataset containing correlation data for 20 subjects from Kennedy Krieger.
