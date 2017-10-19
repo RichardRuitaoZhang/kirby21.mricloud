@@ -1,10 +1,9 @@
-Package: kirby21.dtima
-Title: What the Package Does (one line, title case)
+Package: kirby21.mricloud
+Title: A dataset containing correlation data for 20 subjects from Kennedy Krieger.
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Adi", "Gherman", email = "adig@jhu.edu", role = c("aut", "cre"))
+Description: A dataset containing correlation data for 20 subjects from Kennedy Krieger.
 Depends: R (>= 3.4.1)
-License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
