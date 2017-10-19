@@ -5,6 +5,7 @@ Authors@R: person("Adi", "Gherman", email = "adig@jhu.edu", role = c("aut", "cre
 Description: A dataset containing correlation data for 20 subjects from Kennedy Krieger.
 Depends: R (>= 3.4.1)
 Encoding: UTF-8
+License: GPL-2
 LazyData: true
 RoxygenNote: 6.0.1
 Suggests: testthat
