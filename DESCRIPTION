@@ -3,7 +3,6 @@ Title: A dataset containing correlation data for 20 subjects from Kennedy Kriege
 Version: 0.0.0.9000
 Authors@R: person("Adi", "Gherman", email = "adig@jhu.edu", role = c("aut", "cre"))
 Description: A dataset containing correlation data for 20 subjects from Kennedy Krieger.
-Depends: R (>= 3.4.0)
 Encoding: UTF-8
 License: GPL-2
 LazyData: true
