@@ -10,7 +10,5 @@ Encoding: UTF-8
 License: GPL-2
 LazyData: true
 RoxygenNote: 6.0.1
-Suggests: 
-    testthat,
-    covr
-biocViews: 
+Suggests: testthat, covr
+biocViews:
